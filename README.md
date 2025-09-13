@@ -1,8 +1,14 @@
 # Hey, I'm force.
 I'm a passionate developer with experience in programming using JavaScript, Rust, Python, and modern web technologies.
 
-![Top Langs](https://github-readme-stats-three-green-63.vercel.app/api/top-langs/?username=diggingforce&layout=compact&hide_border=true&theme=dark)
+## Top Languages
+![Top Langs](https://github-readme-stats-three-green-63.vercel.app/api/top-langs/?username=diggingforce&layout=compact&hide_border=false&theme=dark) 
 
+## Contributions
+![Top Contributions](https://github-readme-streak-stats.herokuapp.com/?user=diggingforce&theme=dark&hide_border=false) 
+
+
+## Skills
 <div>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
