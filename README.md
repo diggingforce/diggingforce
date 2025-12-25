@@ -2,7 +2,7 @@
 I'm a passionate developer with experience in programming using JavaScript, Rust, Python, and modern web technologies.
 
 ## Top Languages
-![Top Langs](https://github-readme-stats-three-green-63.vercel.appapi/top-langs/?username=diggingforce&layout=compact&hide_border=false&theme=dark) 
+![Top Langs](https://github-readme-stats-three-green-63.vercel.app/api/top-langs/?username=diggingforce&layout=compact&hide_border=false&theme=dark) 
 
 ## Contributions
 ![GitHub Streak](https://github-readme-streak-stats-beta-puce.vercel.app?user=diggingforce&theme=dark&hide_border=false)
