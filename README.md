@@ -5,7 +5,7 @@ I'm a passionate developer with experience in programming using JavaScript, Rust
 ![Top Langs](https://github-readme-streak-stats-git-depend-e318f7-lilforces-projects.vercel.app//api/top-langs/?username=diggingforce&layout=compact&hide_border=false&theme=dark) 
 
 ## Contributions
-![Top Contributions](https://github-readme-streak-stats-git-depend-e318f7-lilforces-projects.vercel.app//?user=diggingforce&theme=dark&hide_border=false)
+![Top Contributions](https://github-readme-streak-stats-git-depend-e318f7-lilforces-projects.vercel.app?user=diggingforce&theme=dark&hide_border=false)
 
 
 ## Skills
