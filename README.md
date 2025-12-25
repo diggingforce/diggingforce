@@ -6,6 +6,7 @@ I'm a passionate developer with experience in programming using JavaScript, Rust
 
 ## Contributions
 [![GitHub Streak](https://github-readme-streak-stats-8uaof9p5t-lilforces-projects.vercel.app?user=diggingforce&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-depend-e318f7-lilforces-projects.vercel.app?user=diggingforce&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Skills
 <div>
