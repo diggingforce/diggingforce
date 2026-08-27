@@ -17,3 +17,6 @@ I'm a passionate developer with experience in programming using JavaScript, Rust
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </div>
+
+## My website
+[![Huraira](https://huraira.net/buttons/button.png)](https://huraira.net)
